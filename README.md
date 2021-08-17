@@ -40,8 +40,6 @@
 <img align="left" title="php" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/php/php-original.svg" />
 <img align="left" title="HTML5" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/html5/html5-original.svg" />
 <img align="left" title="CSS3" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/css3/css3-original.svg" />
-<img align="left" title="Express" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/express/express-original.svg" style="background-color: lightgreen;border-radius:25%;" />
-<img align="left" title="Handlebars" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/handlebars/handlebars-original.svg" style="background-color: coral;border-radius:25%;"/>
 <img align="left" title="MySQL" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/mysql/mysql-original.svg" />
 <img align="left" title="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/postgresql/postgresql-original.svg" />
 <img align="left" title="Markdown" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/markdown-3772215-3151341.png" />
