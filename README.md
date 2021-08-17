@@ -19,7 +19,7 @@
 
 ### Languages and Tools
 
-<img align="left" title="Python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/python/python-original.svg" />
+[<img align="left" title="Python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/python/python-original.svg" />]
 <img align="left" title="Java" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/java/java-original.svg" />
 <img align="left" title="nodeJS" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/nodejs/nodejs-original.svg" />
 <img align="left" title="Typescript" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/typescript/typescript-original.svg" />
