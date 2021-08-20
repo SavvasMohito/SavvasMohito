@@ -10,10 +10,10 @@
 
 ### Connect with me
 
-[<img align="left" title="LinkedIn" width="26px" target="_blank" src="https://cdn.iconscout.com/icon/free/png-256/internet-2760365-2293703.png" />](https://mantzouranidis.tech)
-[<img align="left" title="LinkedIn" width="26px" target="_blank" src="https://cdn.iconscout.com/icon/free/png-256/linkedin-189-721962.png" />](https://www.linkedin.com/in/savvas-mantzouranidis)
-[<img align="left" title="Instagram" width="26px" target="_blank" src="https://cdn.iconscout.com/icon/free/png-256/instagram-216-721958.png" />](https://www.instagram.com/savvasmohito)
-[<img align="left" title="Email" width="26px" target="_blank" src="https://cdn.iconscout.com/icon/free/png-256/email-2631192-2177204.png" />](mailto:s.mantzouranidis@gmail.com)
+[<img align="left" title="LinkedIn" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/internet-2760365-2293703.png" />](https://mantzouranidis.tech)
+[<img align="left" title="LinkedIn" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/linkedin-189-721962.png" />](https://www.linkedin.com/in/savvas-mantzouranidis)
+[<img align="left" title="Instagram" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/instagram-216-721958.png" />](https://www.instagram.com/savvasmohito)
+[<img align="left" title="Email" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/email-2631192-2177204.png" />](mailto:s.mantzouranidis@gmail.com)
 
 <br />
 <br />
