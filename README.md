@@ -2,7 +2,7 @@
 
 ## I'm Savvas, welcome to my GitHub profile!
 
-- 👨‍💻 Software Development Intern @ [Smart Internet Lab](http://www.bristol.ac.uk/engineering/research/smart/).
+- 👨‍💻 Research Associate @ [Smart Internet Lab](https://www.bristol.ac.uk/engineering/research/smart/) of UoB.
 - 🎓 Computer Science & Software Engineering @ [IHU](https://www.iee.ihu.gr/en/).
 - 🎯 Knowledge hungry, skill chaser, goal achiever.
 - 🗿 Looking forward to new opportunities.
