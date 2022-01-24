@@ -2,11 +2,10 @@
 
 ## I'm Savvas, welcome to my GitHub profile!
 
-- 👨‍💻 Research Associate @ [Smart Internet Lab](https://www.bristol.ac.uk/engineering/research/smart/) of UoB.
+- 👨‍💻 Research Associate @ [University of Bristol](https://www.bristol.ac.uk/engineering/research/smart/).
 - 🎓 Computer Science & Software Engineering @ [IHU](https://www.iee.ihu.gr/en/).
 - 🎯 Knowledge hungry, skill chaser, goal achiever.
-- 🗿 Looking forward to new opportunities.
-- 🏠 Born in '99, based in SKG, Greece.
+- 🏠 From Thessaloniki, GR.
 
 ### Connect with me
 
